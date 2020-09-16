@@ -1,0 +1,4 @@
+name: discordcraft
+version: @version@
+main: me.srinjoyss01.Main
+api-version: 1.16
